@@ -557,11 +557,13 @@ It is suitable for:
 * PostgreSQL DWH learning
 * BI pipeline prototyping
 
----
-# Author
-Gabriela Cretu
+
 
 ---
 # License
 
 MIT License
+
+---
+# Author
+Gabriela Cretu

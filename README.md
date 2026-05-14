@@ -558,7 +558,10 @@ It is suitable for:
 * BI pipeline prototyping
 
 ---
+# Author
+Gabriela Cretu
 
+---
 # License
 
 MIT License

@@ -561,4 +561,4 @@ It is suitable for:
 
 # License
 
-Add a license if the project will be shared publicly.
+MIT License
